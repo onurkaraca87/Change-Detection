@@ -39,4 +39,4 @@ How to use the documentation
      !!! To see how can used this scprit please visit the YouTube Chanel : "........................................"!!!
                         
                         
-  For further information  onurkaraca87@gmail.com and gultekinerten@gmal.com
+  For further information  onurkaraca87@gmail.com and gultekinerten@gmail.com
