@@ -1,7 +1,7 @@
 # Change-Detection
 @author: Sukru Onur Karaca and Gultekin Erten
 This code works for only Landsat8 and Landsat9 !!!
-
+For how to  apply =  https://www.youtube.com/watch?v=lIbSzISFVGQ
 
 
 Provides
